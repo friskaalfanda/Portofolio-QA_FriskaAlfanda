@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>D%%Xsis%batch-324-qa%Friska%JSON Placehorder%JSON Placehorder.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-1068340627219004755.groovy</name>
+			<type>1</type>
+			<location>C:/Users/frisk/AppData/Local/Temp/Katalon/Web Services/kat-1068340627219004755.groovy</location>
+		</link>
+		<link>
+			<name>kat-4561116805856871827.groovy</name>
+			<type>1</type>
+			<location>C:/Users/frisk/AppData/Local/Temp/Katalon/Web Services/kat-4561116805856871827.groovy</location>
+		</link>
+		<link>
+			<name>kat-7321242236003119442.groovy</name>
+			<type>1</type>
+			<location>C:/Users/frisk/AppData/Local/Temp/Katalon/Web Services/kat-7321242236003119442.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1692840127102</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1692840127150</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>

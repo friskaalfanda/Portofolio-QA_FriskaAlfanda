@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>b0b8d649-2acd-4124-82a1-02f2b6fc7270</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.jsx-1449169676.login-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>084e5138-d706-4bed-907a-40945456ece5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a0c66e2b-2be5-4f83-8517-2589f493dead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-1449169676 login-button</value>
+      <webElementGuid>7bb7c154-88a7-46bb-9bda-c5962f7c7c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>เข้าสู่ระบบ </value>
+      <webElementGuid>0c809b2c-5590-4067-827f-0fc755aec2ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;jsx-1449169676 login-wrapper&quot;]/div[@class=&quot;jsx-1449169676 login-container&quot;]/form[@class=&quot;jsx-1449169676 login-form&quot;]/button[@class=&quot;jsx-1449169676 login-button&quot;]</value>
+      <webElementGuid>2409fc2b-96aa-4c0a-b61a-f2068d265867</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

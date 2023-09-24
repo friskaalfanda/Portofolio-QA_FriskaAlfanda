@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test API GET SINGLE POST BY POSTID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f5d3bba-b4a6-47f7-a06e-829d34e5070d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9a3e56c-742d-4221-af23-3720a2507596</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>f9a3e56c-742d-4221-af23-3720a2507596</id>
+      <masked>false</masked>
+      <name>postId</name>
+   </variable>
+</TestCaseEntity>
