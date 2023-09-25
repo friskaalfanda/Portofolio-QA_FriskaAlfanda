@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin  mengosongkan posisi dan tujuan.</description>
+   <name>TC- Empty - 003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5effa759-f16e-4d58-abf3-231aa03c4e64</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c58b0854-78c4-4126-9c8f-ed06f4c4eec8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>788558c0-5671-4ca7-aaa3-7993ebcf48b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac537579-cf2b-4617-b6c0-c011a332d669</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>c58b0854-78c4-4126-9c8f-ed06f4c4eec8</id>
+      <masked>false</masked>
+      <name>input_Kendaraan</name>
+   </variable>
+   <variable>
+      <defaultValue>'15000'</defaultValue>
+      <description></description>
+      <id>788558c0-5671-4ca7-aaa3-7993ebcf48b8</id>
+      <masked>false</masked>
+      <name>input_Ongkir</name>
+   </variable>
+   <variable>
+      <defaultValue>'5 menit'</defaultValue>
+      <description></description>
+      <id>ac537579-cf2b-4617-b6c0-c011a332d669</id>
+      <masked>false</masked>
+      <name>input_Keterangan</name>
+   </variable>
+</TestCaseEntity>

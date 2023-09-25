@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengisi Form Jemput Zakat dengan  mengisi nama lengkap dengan angka.</description>
+   <name>TC-Isi Form-Jemput Zakat-Failed-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3066842f-6094-47e9-bcbf-15ebe44f780b</testCaseGuid>
+</TestCaseEntity>

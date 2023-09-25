@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin melakukan login dengan memasukkan username dan password Admin yang valid.</description>
+   <name>TC-Login-Success-Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b62d1e3d-3b8a-493e-bcd4-7a39763bc8c5</testCaseGuid>
+</TestCaseEntity>

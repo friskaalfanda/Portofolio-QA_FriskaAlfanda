@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin masuk ke halaman paket star seller.</description>
+   <name>TC-Paket Reseller-Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9f48569-8d84-4bf9-8136-3cd91995ae9c</testCaseGuid>
+</TestCaseEntity>

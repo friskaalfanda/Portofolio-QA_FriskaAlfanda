@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin hanya mengisi salah satu data yang disediakan.</description>
+   <name>TC- Empty - 002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>769e4d92-010f-48e3-92c4-2fde26fcabeb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>554c3749-ce34-4111-9fcf-9cb709d8dea3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>554c3749-ce34-4111-9fcf-9cb709d8dea3</id>
+      <masked>false</masked>
+      <name>input_Kendaraan</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengisi Form Jemput Zakat dengan  mengisi no telepon yang kurang dari 10 digit angka</description>
+   <name>TC-Isi Form-Jemput Zakat-Failed-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f08cf5b5-dff2-4e73-a51a-069f90bdba9b</testCaseGuid>
+</TestCaseEntity>

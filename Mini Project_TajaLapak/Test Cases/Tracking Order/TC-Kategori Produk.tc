@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Memesan barang.</description>
+   <name>TC-Kategori Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea4fcb7c-08d7-4ec3-92dc-3336c82e9406</testCaseGuid>
+</TestCaseEntity>

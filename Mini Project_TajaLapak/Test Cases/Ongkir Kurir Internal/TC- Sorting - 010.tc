@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan keterangan dari yang terbesar hingga terkecil.</description>
+   <name>TC- Sorting - 010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e32b49c4-d7c0-462a-9928-4ce6c1a6aa54</testCaseGuid>
+</TestCaseEntity>

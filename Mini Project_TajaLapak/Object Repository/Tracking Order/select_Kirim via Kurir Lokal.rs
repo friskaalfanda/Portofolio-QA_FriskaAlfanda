@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Kirim via Kurir Lokal</name>
+   <tag></tag>
+   <elementGuidId>f67184a2-0864-446f-b59d-755adac38407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='list_sopir1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#list_sopir1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>90d5ffa5-a807-4d6f-a1c4-3447d4d2e76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-mini text-success</value>
+      <webElementGuid>a085f67e-f0bd-46d2-a7d5-d4cf215a385e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kode_sopir1</value>
+      <webElementGuid>7f711de4-58c9-45b0-9e62-d79b72e6632e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>list_sopir1</value>
+      <webElementGuid>7aece562-3017-47b5-9793-aedef00f943a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                              - Kirim via Kurir Lokal -Roda 2Roda 4</value>
+      <webElementGuid>18c73923-8c8e-4c62-9538-d75b8cda0568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list_sopir1&quot;)</value>
+      <webElementGuid>125c4f26-4a21-4d0e-8e68-a28963c81cf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='list_sopir1']</value>
+      <webElementGuid>e2e6fe04-69d5-4cda-9a3c-3d40dc6baea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim via COD (Bayar Di tempat)'])[1]/following::select[1]</value>
+      <webElementGuid>8529f9ca-4a5f-4d0f-b920-852f2dad9c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarii Sentral Java'])[2]/following::select[1]</value>
+      <webElementGuid>b4107b89-03f3-4282-811c-a447d2582bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COD - Padang Lua'])[1]/preceding::select[2]</value>
+      <webElementGuid>11ca7afc-909d-432a-a540-d31696852b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/select</value>
+      <webElementGuid>285e09e7-a901-489e-81d4-24ab81e70e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'kode_sopir1' and @id = 'list_sopir1' and (text() = '
+                                              - Kirim via Kurir Lokal -Roda 2Roda 4' or . = '
+                                              - Kirim via Kurir Lokal -Roda 2Roda 4')]</value>
+      <webElementGuid>cd43183d-3709-4e3a-ad69-dca1663379fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

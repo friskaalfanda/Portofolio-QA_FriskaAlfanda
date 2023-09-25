@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengedit data dengan menghapus judul berita.</description>
+   <name>TC- Edit Data Error 001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb71fe88-7119-4826-bbeb-c67e140aacbf</testCaseGuid>
+</TestCaseEntity>

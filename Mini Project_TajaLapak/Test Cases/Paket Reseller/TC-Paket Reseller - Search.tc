@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mencari  data berdasarkan kata/huruf/angka yang dicari.</description>
+   <name>TC-Paket Reseller - Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>978f97ee-7858-4226-ac5f-6a443c2a9e1d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a730581-dcde-4a70-a058-5f7c4c755563</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'180 hari'</defaultValue>
+      <description></description>
+      <id>1a730581-dcde-4a70-a058-5f7c4c755563</id>
+      <masked>false</masked>
+      <name>search_reseller</name>
+   </variable>
+</TestCaseEntity>

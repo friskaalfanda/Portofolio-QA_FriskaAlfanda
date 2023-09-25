@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan tujuan dari Z hingga A.</description>
+   <name>TC- Sorting - 006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c59f5b13-51a9-4269-beb5-8ee3bdbf02ce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin menambahkan data paket reseller.</description>
+   <name>TC- Tambah Data Paket Reseller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7c6ad9f-9d0f-4b65-b912-537b37db661e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31d4174c-761a-456e-8adf-21eedd6cd2c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35abf945-5791-497c-aac1-1436bec119b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41edc54c-d9f4-45b6-b9c9-5d6b8fe26330</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95fcd0a7-21f3-4a6f-b8b6-cbb3ffacf7e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>116904ee-2292-4663-98ab-6e99be2ce21e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>030e4225-ba32-4f94-81d6-252c1158d431</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1cec16aa-9c21-4bd8-841a-a207af3c2c66</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Star Seller 5 Bulan'</defaultValue>
+      <description></description>
+      <id>31d4174c-761a-456e-8adf-21eedd6cd2c4</id>
+      <masked>false</masked>
+      <name>nama_paket</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pink blouse'</defaultValue>
+      <description></description>
+      <id>35abf945-5791-497c-aac1-1436bec119b8</id>
+      <masked>false</masked>
+      <name>judul_paket</name>
+   </variable>
+   <variable>
+      <defaultValue>'Masa Aktif 90 Hari'</defaultValue>
+      <description></description>
+      <id>41edc54c-d9f4-45b6-b9c9-5d6b8fe26330</id>
+      <masked>false</masked>
+      <name>keterangan_paket</name>
+   </variable>
+   <variable>
+      <defaultValue>'2 Hari'</defaultValue>
+      <description></description>
+      <id>95fcd0a7-21f3-4a6f-b8b6-cbb3ffacf7e4</id>
+      <masked>false</masked>
+      <name>durasi_paket</name>
+   </variable>
+   <variable>
+      <defaultValue>'25000'</defaultValue>
+      <description></description>
+      <id>116904ee-2292-4663-98ab-6e99be2ce21e</id>
+      <masked>false</masked>
+      <name>harga_paket</name>
+   </variable>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>030e4225-ba32-4f94-81d6-252c1158d431</id>
+      <masked>false</masked>
+      <name>max_produk</name>
+   </variable>
+   <variable>
+      <defaultValue>'ASD123'</defaultValue>
+      <description></description>
+      <id>1cec16aa-9c21-4bd8-841a-a207af3c2c66</id>
+      <masked>false</masked>
+      <name>icon_kode</name>
+   </variable>
+</TestCaseEntity>

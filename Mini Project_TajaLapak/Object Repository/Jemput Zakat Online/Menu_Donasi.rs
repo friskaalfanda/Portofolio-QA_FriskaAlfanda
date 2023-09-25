@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu_Donasi</name>
+   <tag></tag>
+   <elementGuidId>2fa2d0a7-45fe-493d-861a-316ef2dddcf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders Report'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1fcfb409-2b56-47b4-8f33-06ac952d4da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Donasi</value>
+      <webElementGuid>298a1a5a-304d-41f3-9e27-a5b3b5bbb522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;loaded&quot;]/header[@class=&quot;header header--1&quot;]/nav[@class=&quot;navigation&quot;]/div[@class=&quot;ps-container&quot;]/div[@class=&quot;navigation__right&quot;]/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item-has-children&quot;]/a[1]/span[1]</value>
+      <webElementGuid>266b8374-f43e-47e0-b9a8-e369cca1167a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders Report'])[1]/following::span[2]</value>
+      <webElementGuid>32840c5f-e6c3-42e9-9d69-72144f868ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Orders'])[1]/following::span[3]</value>
+      <webElementGuid>f7cb1508-fc1b-40d6-aa47-1b187e0d9f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedekah Online'])[1]/preceding::span[1]</value>
+      <webElementGuid>47c86672-b694-4311-bace-dec98e1314fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wakaf Uang'])[1]/preceding::span[2]</value>
+      <webElementGuid>83deaf35-b41d-4a16-9189-56ff75a79a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Donasi']/parent::*</value>
+      <webElementGuid>26c0a7c9-a2b3-4f0c-998e-75e39b75c23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div[2]/ul/li[4]/a/span</value>
+      <webElementGuid>e321ee35-13dd-4e0e-8624-004f488693a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Donasi' or . = 'Donasi')]</value>
+      <webElementGuid>a1c9976d-b45c-403e-8bc0-95d9f42769d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

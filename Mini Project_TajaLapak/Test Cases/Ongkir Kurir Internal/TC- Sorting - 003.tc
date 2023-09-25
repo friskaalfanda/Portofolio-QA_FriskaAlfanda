@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan data posisi dari awalan A hingga Z.</description>
+   <name>TC- Sorting - 003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>782111a2-d95c-43b2-90b5-e7e10ea1ceb6</testCaseGuid>
+</TestCaseEntity>

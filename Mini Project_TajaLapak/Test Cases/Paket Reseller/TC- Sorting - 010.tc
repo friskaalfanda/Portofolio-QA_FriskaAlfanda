@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan icon kode secara DESC.</description>
+   <name>TC- Sorting - 010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b0a7e0-9d81-4dc9-9fcd-c75cf88d8033</testCaseGuid>
+</TestCaseEntity>

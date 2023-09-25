@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Status error Tracking Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50938c1b-2674-4981-b727-04f70a575d53</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d09dda36-9fed-479a-9489-faf8f67d33cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'beti@gmail.com'</defaultValue>
+      <description></description>
+      <id>d09dda36-9fed-479a-9489-faf8f67d33cd</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan data harga secara DESC.</description>
+   <name>TC- Sorting - 006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>007a4299-6246-49e2-b137-37833df2158e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DropDown_MetodePembayaran</name>
+   <tag></tag>
+   <elementGuidId>82df4478-b62e-4e6c-be89-7a6227a98600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;id_rekening&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='id_rekening']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>03b71dc7-9c86-4c6e-a704-3d2992528751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>id_rekening</value>
+      <webElementGuid>9d824f46-7401-48de-807f-fc2f3d9ec4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-auth</value>
+      <webElementGuid>a1a48e47-b3a7-495d-a897-ff09e0221958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank BNI Syariah - 0817 0242 31, A/N : PT. TAJALAPAKBank Mandiri Syariah - 7128 5288 67, A/N : PT. TAJALAPAKBank BRI Syariah - 1043 5665 19, A/N : PT. TAJALAPAK</value>
+      <webElementGuid>994749c5-93ac-4c1d-b4eb-882698599208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;loaded&quot;]/div[@class=&quot;ps-order-tracking&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ps-section__content&quot;]/form[@class=&quot;ps-form--order-tracking&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control form-auth&quot;]</value>
+      <webElementGuid>730f1738-61d6-4bc2-ab7e-74ccd1f2bf75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='id_rekening']</value>
+      <webElementGuid>231489b7-47ab-407b-92ef-85d81c9fb948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Pembayaran *'])[1]/following::select[1]</value>
+      <webElementGuid>bd40940c-fb5a-4d6e-a57c-19aef8ce1932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Email anda *'])[1]/following::select[1]</value>
+      <webElementGuid>19a79b78-60da-415b-b765-903c2bd8a844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Penjemputan *'])[1]/preceding::select[1]</value>
+      <webElementGuid>3b6ebe6c-2a1e-475e-b78c-bcc29a57f880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Silahkan Isi Do', &quot;'&quot;, 'a Terbaik Anda *')])[1]/preceding::select[1]</value>
+      <webElementGuid>f27a2dd3-2c27-4ed5-a6ac-511b0210e746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/select</value>
+      <webElementGuid>d3e29655-0623-4d98-bf9e-efe6c110edbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'id_rekening' and (text() = 'Bank BNI Syariah - 0817 0242 31, A/N : PT. TAJALAPAKBank Mandiri Syariah - 7128 5288 67, A/N : PT. TAJALAPAKBank BRI Syariah - 1043 5665 19, A/N : PT. TAJALAPAK' or . = 'Bank BNI Syariah - 0817 0242 31, A/N : PT. TAJALAPAKBank Mandiri Syariah - 7128 5288 67, A/N : PT. TAJALAPAKBank BRI Syariah - 1043 5665 19, A/N : PT. TAJALAPAK')]</value>
+      <webElementGuid>33ca3dc9-e9bc-4398-bfc7-8ade679d09ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

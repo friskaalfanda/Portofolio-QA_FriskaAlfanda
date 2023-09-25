@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bag</name>
+   <tag></tag>
+   <elementGuidId>88227bbf-3ad1-4227-9497-cd84b7c2162e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-1']/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.ps-product__actions.produk-7 > li > a > i.icon-bag2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b3d347be-699b-4fd5-8818-6472ec874b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-bag2</value>
+      <webElementGuid>798d5ebe-d905-4ec5-bc6d-ffd829c6575f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-1&quot;)/div[@class=&quot;ps-shopping-product&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6&quot;]/div[@class=&quot;ps-product&quot;]/div[@class=&quot;ps-product__thumbnail&quot;]/ul[@class=&quot;ps-product__actions produk-7&quot;]/li[1]/a[1]/i[@class=&quot;icon-bag2&quot;]</value>
+      <webElementGuid>db7512eb-43c0-4984-b485-1e23345dca02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-1']/div/div/div/div/div/ul/li/a/i</value>
+      <webElementGuid>9c38dee0-326f-424e-aa3d-a5cc9eeff667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/ul/li/a/i</value>
+      <webElementGuid>221cd3bd-329d-4a08-be9b-98449e6b91da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin tidak mengisi data yang disediakan.</description>
+   <name>TC- Empty - 001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d0e7adb-0439-4647-a32e-f35c82fb2a14</testCaseGuid>
+</TestCaseEntity>

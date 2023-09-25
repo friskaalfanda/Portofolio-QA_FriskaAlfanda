@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin menghapus data pada data paket reseller.</description>
+   <name>TC- Delete Data Paket Reseller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef237645-95be-4d22-a688-a1231de78d07</testCaseGuid>
+</TestCaseEntity>

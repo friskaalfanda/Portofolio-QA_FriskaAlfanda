@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengedit data paket reseller.</description>
+   <name>TC- Edit DataPaket Reseller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ba660ab-556a-4e8c-ade7-d5605dc39f08</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ed069bf-bc3a-45a0-bf1f-6ef2db3f29a4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3bc710c-3e42-4c65-bd50-a2f16439be04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3c88fd5-78f9-42ee-8b1f-ed5ba7f80971</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81917799-3601-4c2d-8a14-ecd102c2fabf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34671aa5-668f-49bf-9969-259832026f7d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93925b29-f80a-49ea-8e88-39516d374aff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1045551-7c03-4579-a3a5-59cba7112145</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Paket sehari sampai'</defaultValue>
+      <description></description>
+      <id>8ed069bf-bc3a-45a0-bf1f-6ef2db3f29a4</id>
+      <masked>false</masked>
+      <name>nama_paket_edit</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pinky Pink'</defaultValue>
+      <description></description>
+      <id>d3bc710c-3e42-4c65-bd50-a2f16439be04</id>
+      <masked>false</masked>
+      <name>judul_paket_edit</name>
+   </variable>
+   <variable>
+      <defaultValue>'Masa aktif 180 hari'</defaultValue>
+      <description></description>
+      <id>a3c88fd5-78f9-42ee-8b1f-ed5ba7f80971</id>
+      <masked>false</masked>
+      <name>keterangan_paket_edit</name>
+   </variable>
+   <variable>
+      <defaultValue>'3 '</defaultValue>
+      <description></description>
+      <id>81917799-3601-4c2d-8a14-ecd102c2fabf</id>
+      <masked>false</masked>
+      <name>durasi_paket_edit</name>
+   </variable>
+   <variable>
+      <defaultValue>'35000'</defaultValue>
+      <description></description>
+      <id>34671aa5-668f-49bf-9969-259832026f7d</id>
+      <masked>false</masked>
+      <name>harga_paket_edit</name>
+   </variable>
+   <variable>
+      <defaultValue>'15'</defaultValue>
+      <description></description>
+      <id>93925b29-f80a-49ea-8e88-39516d374aff</id>
+      <masked>false</masked>
+      <name>max_produk_edit</name>
+   </variable>
+   <variable>
+      <defaultValue>'ASER123'</defaultValue>
+      <description></description>
+      <id>e1045551-7c03-4579-a3a5-59cba7112145</id>
+      <masked>false</masked>
+      <name>icon_kode_edit</name>
+   </variable>
+</TestCaseEntity>

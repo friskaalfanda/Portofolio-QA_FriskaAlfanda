@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengisi email tanpa &quot;.com&quot;</description>
+   <name>TC-Isi Form-Jemput Zakat-Failed-006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ded509e5-d04d-4e94-9fab-03598b3e4eff</testCaseGuid>
+</TestCaseEntity>

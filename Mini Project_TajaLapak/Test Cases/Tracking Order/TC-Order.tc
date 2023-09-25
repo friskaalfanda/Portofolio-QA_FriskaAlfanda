@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Memesan barang.</description>
+   <name>TC-Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db37bc6e-f32f-4546-8d32-f52eda9fd5d6</testCaseGuid>
+</TestCaseEntity>

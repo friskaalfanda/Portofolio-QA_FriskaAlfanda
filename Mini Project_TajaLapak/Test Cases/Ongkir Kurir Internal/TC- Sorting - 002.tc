@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan berdasarkan jumlah roda kendaraan dari yang terbesar hingga terkecil.</description>
+   <name>TC- Sorting - 002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9816dac-0558-443f-9ba0-c9c8b947ad5a</testCaseGuid>
+</TestCaseEntity>

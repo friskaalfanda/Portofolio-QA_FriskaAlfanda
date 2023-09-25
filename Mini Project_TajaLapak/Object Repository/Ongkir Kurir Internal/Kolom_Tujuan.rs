@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kolom_Tujuan</name>
+   <tag></tag>
+   <elementGuidId>5d354e71-8ee1-48b6-a0e7-b9cc5d846ba4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;example1&quot;]/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>60cbe130-afb7-472c-a7eb-8d592ee93163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aur Birugo Tigo Baleh, Kota Bukittinggi</value>
+      <webElementGuid>95a3f698-f844-4c67-913b-c09c9ce02cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example1&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[4]</value>
+      <webElementGuid>e0f0eda9-8dfc-49a7-8a64-81da78ad054f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example1']/tbody/tr/td[4]</value>
+      <webElementGuid>7c034e8b-4e66-4463-94bc-5791158f8c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guguk Panjang (Guguak Panjang), Kota Bukittinggi'])[1]/following::td[1]</value>
+      <webElementGuid>477110df-0625-4268-8eff-ddb24a364eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roda 2'])[1]/following::td[2]</value>
+      <webElementGuid>f481dcb1-2376-4f9e-9dc9-006933b4742b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roda 2'])[2]/preceding::td[5]</value>
+      <webElementGuid>6fec9fd1-0745-4ee9-984a-537b5ec46b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandiangin Koto Selayan, Kota Bukittinggi'])[1]/preceding::td[6]</value>
+      <webElementGuid>f0e49a36-8bce-4ca2-b5ef-705087578a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aur Birugo Tigo Baleh, Kota Bukittinggi']/parent::*</value>
+      <webElementGuid>29169b5b-e8f3-4b70-99f7-c4b61a6f9af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>400f4cce-76f1-4b48-aa89-cd0865af345b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Aur Birugo Tigo Baleh, Kota Bukittinggi' or . = 'Aur Birugo Tigo Baleh, Kota Bukittinggi')]</value>
+      <webElementGuid>2ea309e3-687a-44ff-bf5b-deaff3040160</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

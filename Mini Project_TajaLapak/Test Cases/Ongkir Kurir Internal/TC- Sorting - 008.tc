@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan ongkir dari yang terbesar hingga terkecil.</description>
+   <name>TC- Sorting - 008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d9067c7-4f0a-43fd-9a79-7d77726c4adf</testCaseGuid>
+</TestCaseEntity>

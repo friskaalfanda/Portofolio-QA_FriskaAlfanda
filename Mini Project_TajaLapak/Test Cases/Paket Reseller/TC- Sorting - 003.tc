@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin mengurutkan data durasi secara ASC.</description>
+   <name>TC- Sorting - 003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c54aa4ab-5bc2-49ef-a280-36c2e93ced13</testCaseGuid>
+</TestCaseEntity>

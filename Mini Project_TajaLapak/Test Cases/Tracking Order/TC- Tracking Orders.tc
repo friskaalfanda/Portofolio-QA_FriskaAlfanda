@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC- Tracking Orders</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56262d79-d9d8-48ac-967a-3633d1c530fb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5140fe2b-bbf3-4311-b252-cf89f6d98946</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'beti@gmail.com'</defaultValue>
+      <description></description>
+      <id>5140fe2b-bbf3-4311-b252-cf89f6d98946</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+</TestCaseEntity>
